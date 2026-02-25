@@ -1,2 +1,11 @@
-# Lost-Found-Portal
-Lost &amp; Found Portal is a centralized digital platform designed to help users report, track, and recover lost items efficiently. It allows individuals to post details of lost or found belongings, search through listings, and connect securely with others to claim items. 
+
+  # Lost & Found Portal
+
+  This is a code bundle for Lost & Found Portal. The original project is available at https://www.figma.com/design/B9TM7iKWzrMW1YG4bJBACR/Lost---Found-Portal.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
