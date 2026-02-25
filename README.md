@@ -1,8 +1,7 @@
 
   # Lost & Found Portal
 
-  This is a code bundle for Lost & Found Portal. The original project is available at https://www.figma.com/design/B9TM7iKWzrMW1YG4bJBACR/Lost---Found-Portal.
-
+  This is a code bundle for Lost & Found Portal. 
   ## Running the code
 
   Run `npm i` to install the dependencies.
